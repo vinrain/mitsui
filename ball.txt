@@ -38,3 +38,30 @@
                  GGDDGDGDGDG##GGGGGG###GGGGGG##GGGGDGGDGDGDGGDGDDDDGDGEGGGGGGGGL                    
                   GGDGDGDGGGW#GGGGGG###GGGGGD##GGDDDDGDGDGDDGDDEDGDGDGGGGGGGGGDG                    
                   GGDGDGDGG#WGGGGGGG###DGGGGD##DGDDDDGDGDGGDGDDEDDDGDGGGGGGGGGDG                    
+                  GGDGDGGGGKKGGDGGGD###DGGDGDDWWGDDDDGDGDDDDDEDDEGDGGGGGGGGGDDG                     
+                  GGEGDGGGGKKGGGGDGDE##DGGDGDDWWGDDDDDDGDDGDDEDDEGDGGGGGGGGGDDG                     
+                   GDGGGGGGE#GGGGDGDD##DDDDGDDDWWDDDDDDDDDDEDDDDDGGGGGGGGGDGDDG                     
+                   GDGGGGGGELGGGGDGDG##KDDDDDDDWKDDDDDEDDDDEDDDDDGGGGGGGGGDDDD                      
+                   tDGGGGG#EGGGDGDGDG###DDDDDDDEKKDDDEDDDEDDDDGGGGGGGGGGDGGDDD                      
+                    DGGGGGEEDGGDGDGDG###DDGDDEDDKEEDDEDEDEDDDGGDGDGGGGDGDDDDD                       
+                    DDDGGGEWGDGDGDGDG###DDDDEEDDDED#DEDEDEGDGGGDGGGGGGGGGDDDD                       
+                     DGGG#EGGGGDGDGDDGWWDDGDEEDGDGDDDEDDDDGGGDGDGGGGDGDDGDDE                        
+                      DDDEEGGGGGGDGDDGWW#DGDEEDEDDEDDEDDGGGDGDGDGGGGDGGDDDDE                        
+                      DDEK#DGGGGGDGGDD#KKDDDEDDDDGGDDDGGGGGDGDGDGGGGDDGDDEE                         
+                       DKKGDGGGDGGGGGDGEEEDGDDEGGGGGGDD#DDGDGDGDGGGGGDDEDK:                         
+                        KWDDGGGDGGGDGDGEE#DGDGEGGGGGGGGG#DGDGDGDGGDDGDDEDK                          
+                        tEDDGDGDGGGDGDGEEEGDDGGGGGGGGGDGLLGDGDGGGGGDGEDKD                           
+                         EDDDDGGGGGDGDGDEEDGDGGGGGGGDGGGLLGWGDGGDGGEDEDK                            
+                          DEDEDGDGGDGGGGEE#GGLGGGGGGGGGGG#GEKGDGDDDEDED                             
+                           EDDDDDGGDGGGG#EEGGLGGGGGGDGGGGGGEKW#GDDDEDE                              
+                             DEDDDGGGGGGGEELGGGGGGGGGGGGGGGD#W###DDDE                               
+                              EDDDDDGGGGG#EEGGGGGGDGGDGGGDGGED#####                                 
+                               EDDDDDDDGGGEEGDGDDGDDGDGDGDDDEDDD##                                  
+                                 EEEDDDDDDKEEDDDDDDDDDDEDDDDDEEE                                    
+                              .....EEEEDEEEKK#EEEEEEDEEKEEEEEE......                                
+                      .....:::::,,,,;DKWKWKWWWWWWWKWKWKWKKKK;;,,,,,::::......                       
+                  ....::::,,,;;itjjfLLGGK################DGGGLffjtii;;,,,:::.....                   
+                ....::::,,;;iitffLGDDEEKKKWWWW#####WWWWWKKKEEEDGGLfjtii;;,,:::.....                 
+                 .....::::,,,;;itjjfLLGGDDDEEEEEEEEEEEEEDDGGGLffjtii;;,,,:::.....                   
+                      .....:::::,,,,;;;;iiiiittttttttiiiiii;;;;,,,,::::......                       
+                              . ............::::::::::::.............  
